@@ -1,3 +1,8 @@
+# 포트폴리오 사이트 바로가기
+https://taehyun-portfolio-hub.vercel.app
+
+---
+
 # 4주차 수업 내용
 
 **index.html**
@@ -83,7 +88,3 @@ function App() {
 ### 레포트
 * lovable 포트폴리오 사이트 만들기
 * vercel로 배포하기
-
-### 발표 준비
-* Javascript Function (자바스크립트 함수 발표)
-* 일급 함수 내용이 꼭 들어가야함
